@@ -1,0 +1,59 @@
+
+.itens-plataforma{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.itens-plataforma a{
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-transform: lowercase;
+    
+    background-color: white;
+    color: gray;
+    font-size: 25px;
+}
+.itens-plataforma a:hover{
+    background-color: rgb(167, 162, 162);
+    color: white;
+}
+
+/*  TEXTO E IMAGENS */
+
+.texto-img{
+    display: flex;
+    justify-content: space-between;
+    background-color: #484B4E;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-left: 60px;
+    row-gap: 20px;
+}
+.texto h3{
+    font-size: 25px;
+    color: orange;
+    font-weight: 500;
+
+}
+.texto h1{
+    font-size: 40px;
+    color: white;
+    font-weight: 200;
+}
+.texto p{
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+/* IMAGENS */
+.imgs{
+    display: flex;
+    width: 50%;
+    
+}

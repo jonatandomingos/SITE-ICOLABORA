@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    padding: 40px;
+    background-color: #FF8B00;
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    text-transform: uppercase;
+
+    cursor: pointer;
+
+}

@@ -1,0 +1,35 @@
+
+.icones-soluçoes{
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color: white;
+}
+.icones-soluçoes h2{
+    font-size: 30px;
+}
+
+/*    GRATUITO */
+.gratuito{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    column-gap: 100px;
+}
+.gratuito h2{
+    font-size: 30px;
+    color: white;
+    font-weight: 300;
+}
+.gratuito button{
+    padding: 5px 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    background-color: #F68A1E;
+    border: none;
+
+    cursor: pointer;
+}

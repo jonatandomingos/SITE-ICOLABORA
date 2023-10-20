@@ -1,0 +1,40 @@
+
+.lider{
+    background-color: white;
+    padding: 100px;
+}
+.lider h2{
+    font-size: 30px;
+    font-weight: 400;
+    padding-bottom: 60px;
+}
+.lider h2 strong{
+    color: orange;
+    font-weight: 700;
+}
+.transaçoes{
+    display: flex;
+    justify-content: space-between;
+}
+.transaçoes-todos{
+    border-left: 2px solid orange;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.transaçoes2{
+    display: flex;
+    padding-left: 50px;
+}
+.transaçoes2 p{
+    font-size: 20px;
+    color: #54595F;
+    padding-bottom: 40px;
+
+}
+.transaçoes2 strong{
+    font-size: 40px;
+    color: black;
+}

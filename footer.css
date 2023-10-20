@@ -1,0 +1,76 @@
+
+footer{
+    padding: 100px;
+    background-color: #1c1c1c;
+}
+.itens-footer{
+    display: flex;
+    justify-content: space-between;
+}
+.itens-footer p{
+    font-size: 25px;
+    color: white;
+    font-weight: 800;
+}
+.informaçoes{
+    display: flex;
+    justify-content: space-between;
+    row-gap: 40px;
+}
+.tel{
+    display: flex;
+    column-gap: 20px;
+}
+.tel i{
+    font-size: 25px;
+    color: orange;
+    font-weight: 700;
+}
+.tel span{
+    color: white;
+    font-weight: 400;
+}
+.tel img{
+    height: 30px;
+}
+
+/* INFO 2  */
+
+.info2{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+.info2 a {
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+/* REDES SOCIAL */
+
+.redes-social{
+    display: flex;
+    gap: 20px;
+}
+.redes-social i{
+    font-size: 30px;
+    
+    padding: 10px;
+    background-color: orange;
+    border-radius: 100%;
+}
+
+/* direitos */
+.direitos{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: orange;
+
+}
+.direitos h2{
+    font-size: 20px;
+    font-weight: 400;
+}
+

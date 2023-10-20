@@ -1,0 +1,58 @@
+
+
+.funcionalidades{
+    display: flex;
+    padding: 200px 0px;
+    background-color: #EEEEEE;
+    
+    
+    
+   
+}
+.funcionalidades h4{
+    padding-left: 120px;
+    font-size: 20px;
+    color: #838181;
+}
+.todo{
+    display: flex;
+    justify-content: space-around;
+    background-color: #EEEEEE;
+}
+.texto-1{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+
+}
+.texto-1 h2{
+    font-size: 40px;
+    font-weight: 500;
+}
+.texto-1 p{
+    font-size: 30px;
+    font-weight: 300;
+    color: #202022;
+    padding-bottom: 100px;
+}
+
+.texto-2{
+    height: 400px;
+    width: 300px;
+    background-color: whitesmoke;
+    row-gap: 20px;
+}
+.texto-2 h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+}
+.texto-2 p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
